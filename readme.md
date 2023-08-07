@@ -6,10 +6,10 @@
 <p align="left"> Quanto a minha formação acadêmica, possuo Ensino Médio completo, Ensino Superior incompleto e atualmente estou cursando a 14ª edição do Programa Starter Web Developer Full Stack da Growdev.
 </p>
 
-<p align="left"> Entre minhas experiências profissionais, destaco que já trabalhei como: Auxiliar admnistrativo (menor aprendiz) em Lavebras Gestão de Têxteis S.A.; Monitor de Química Geral (bolsista) em UFRGS; Auxiliar de produção (temporário) em Atacadão RS; Auxiliar Logístico em TEX Courier Express e atulamente trabalho no setor de Serviço de Atendimento ao Cliente na rede Carrefour. 
+<p align="left"> Entre minhas experiências profissionais, destaco que já trabalhei como: Auxiliar admnistrativo (menor aprendiz) em Lavebras Gestão de Têxteis S.A.; Monitor de Química Geral (bolsista) em UFRGS; Auxiliar de produção (temporário) em Atacadão RS; Auxiliar Logístico em TEX Courier Express e auxiliar de operações no Serviço de Atendimento ao Cliente na rede Carrefour. 
 </p>
 
-<p align="left"> No atual momento estou iniciando os estudos em programação Front-end utilizando principalmente JavaScript, HTML e Css.
+<p align="left"> No atual momento estudo programação utilizando o framework React.js.
 </p>
 
 <p align="left"> Em relação aos meus Hobbies, gosto de ler, praticar esportes, escutar música, passar tempo com meus pets e estudar programação.
